@@ -4,7 +4,7 @@ html, body {
     height: 100%;
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url("OnlyLogo.png");
+    background-image: url("Fundo Logins.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -145,5 +145,6 @@ form button:hover {
     background: rgba(0,0,0,0.05);
     transform: scale(1.02);
 }
+
 
 
